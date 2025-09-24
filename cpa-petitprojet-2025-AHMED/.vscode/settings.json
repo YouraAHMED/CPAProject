@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "jars/supportGUI.jar",
+        "jars/jfreechart-1.5.5.jar",
+        "jars/swing-framework.jar"
+    ],
+    "makefile.configureOnOpen": false
+}

@@ -1,0 +1,37 @@
+
+ˆ
+java:S1319"kThe type of "inputPoints" should be an interface such as "List" rather than the implementation "ArrayList".(ù²íÉ8Ú•§€×2
+ƒ
+java:S1319"fThe type of "points" should be an interface such as "List" rather than the implementation "ArrayList".(´ò8Ú•§€×2
+ˆ
+java:S13194"fThe type of "points" should be an interface such as "List" rather than the implementation "ArrayList".(Æ©ô³ùÿÿÿÿ8Û•§€×2
+
+java:S1319U"kThe type of "inputPoints" should be an interface such as "List" rather than the implementation "ArrayList".(ı–ºÙüÿÿÿÿ8 ÉÂ€×2
+r	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ—ÆÖıÿÿÿÿ8Û•§€×2
+r	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ—ÆÖıÿÿÿÿ8Û•§€×2
+r	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿÷Ş…üÿÿÿÿ8Û•§€×2
+n	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™°é8Û•§€×2
+s	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÆÑÏøÿÿÿÿ8Ü•§€×2
+s	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÆÑÏøÿÿÿÿ8Ü•§€×2
+s	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô’Şéúÿÿÿÿ8Ü•§€×2
+s	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô’Şéúÿÿÿÿ8Ü•§€×2
+s	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô’Şéúÿÿÿÿ8Ü•§€×2
+n	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­óÙ¯8Ü•§€×2
+s	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úƒ¥ªùÿÿÿÿ8Ü•§€×2
+n	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ñ¢™8Ü•§€×2
+f
+java:S2184£"HCast one of the operands of this multiplication operation to a "double".(­óÙ¯8Ş•§€×2
+e
+java:S2184§"BCast one of the operands of this addition operation to a "double".(§Ë’©ùÿÿÿÿ8Ş•§€×2
+`
+java:S2184¨"BCast one of the operands of this addition operation to a "double".(¥áÓè8Ş•§€×2
+e
+java:S2184©"BCast one of the operands of this addition operation to a "double".(»‡Ç÷ùÿÿÿÿ8Ş•§€×2
+W	java:S125"<This block of commented-out lines of code should be removed.(ÜÃD8¬†ºç×2
+t
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Æ©ô³ùÿÿÿÿ8€—§€×2
+o	java:S100_"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ—ÆÖıÿÿÿÿ8†—§€×2
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ş¿á©×2
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8—§€×2

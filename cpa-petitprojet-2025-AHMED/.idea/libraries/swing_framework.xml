@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="swing-framework">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jars/swing-framework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
